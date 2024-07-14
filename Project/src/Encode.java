@@ -22,6 +22,7 @@ public class Encode extends JFrame {
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setBounds(100, 100, 500, 500);
         this.setLocationRelativeTo(null);
+        this.setResizable(false);
         this.setTitle("ENCODE");
 
         c = getContentPane();

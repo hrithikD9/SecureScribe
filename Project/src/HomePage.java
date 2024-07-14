@@ -20,6 +20,7 @@ public class HomePage extends JFrame{
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setSize(500,500);
         this.setLocationRelativeTo(null);
+        this.setResizable(false);
         this.setTitle("HOMEPAGE");
 
         font = new Font("Poppins", Font.BOLD, 18);
