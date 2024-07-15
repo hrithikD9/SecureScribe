@@ -1,22 +1,17 @@
-                  
- 
 <h1 align="center" style="font-weight: bold;">SecureScribe-DesktopApp💻</h1>
-
 
 <p align="center">This Java application uses the Swing framework to provide a user-friendly GUI for encoding and decoding text. It supports various encoding algorithms, ensuring flexibility and efficiency. The application aims to offer both educational value and practical utility, making complex text transformations accessible and straightforward for users.</p>
 
+<p align="center">
+  <a href="https://github.com/hrithikD9/SecureScribe-desktopApp">Click here to explore the project on GitHub!</a>
+</p>
+
+<h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-<a href="https://github.com/hrithikD9/SecureScribe-desktopApp">Click on it!</a>
+  <img src="https://socialify.git.ci/hrithikD9/SecureScribe-desktopApp/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="Project Layout" width="400px">
 </p>
- 
-<h2 id=">">🎨 Layout</h2>
 
-<p align="center">
-
-<img src="https://socialify.git.ci/hrithikD9/SecureScribe-desktopApp/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="" width="400px">
-</p>
- 
 <h2 id="technologies">💻 Technologies</h2>
 
 ++ Java: Programming language used for the backend logic.
@@ -27,7 +22,6 @@
 
 ++ GitHub: Platform used for hosting the project repository and collaboration.
 
- 
 <h2 id="started">🚀 Getting started</h2>
 
 ++ Navigate to the "ENCODE" button on the Home Page to encode text.
@@ -35,7 +29,7 @@
 ++ Navigate to the "DECODE" button on the Home Page to decode text.
 
 ++ Follow the on-screen instructions on each page to interact with the application.
- 
+
 <h3>Prerequisites</h3>
 
 +- Java Development Kit (JDK): Version 8 or higher
@@ -43,9 +37,10 @@
 +- Java IDE: IntelliJ IDEA, Eclipse, or any other Java IDE of your choice
 
 +- Git: For version control and collaboration (optional)
- 
+
 <h3>Cloning</h3>
 
+```bash
 git clone https://github.com/hrithikD9/SecureScribe-desktopApp.git
 
  
@@ -59,6 +54,8 @@ git clone https://github.com/hrithikD9/SecureScribe-desktopApp.git
 
  
 <h2 id="contribute">📫 Contribute</h2>
+
+Here's how you can contribute to this project:
 
 1. Clone the repository to your local machine: git clone https://github.com/hrithikD9/SecureScribe-desktopApp.git
 
@@ -85,3 +82,6 @@ git push origin feature/your-feature-name
 4. If applicable, attach screenshots or visuals that demonstrate the modifications.
 
 Wait for the code review and address any feedback received.
+
+
+This README structure aligns with your request, providing sections for layout, technologies used, getting started instructions, cloning, starting the application, and contributing guidelines. Adjust any specifics according to your project's details and requirements.
